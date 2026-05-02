@@ -4,6 +4,7 @@ RENCANA KONTEN ANT
  *ES6
  *fRAMEWORKS javascript
   ^vue
+  ^react
 -Struktur data dasar
 -PHP FRAMEWORKS
  ^laravel
