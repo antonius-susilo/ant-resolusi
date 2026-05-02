@@ -1,6 +1,0 @@
-RENCANA KONTEN ANT
-
--JAVA SCRIPT
--PHP FRAMEWORKS
--Interview
--vlogs   
