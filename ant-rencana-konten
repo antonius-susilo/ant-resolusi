@@ -3,7 +3,11 @@ RENCANA KONTEN ANT
 -JAVA SCRIPT
  *ES6
  *fRAMEWORKS javascript
+  ^vue
+  ^react
 -Struktur data dasar
 -PHP FRAMEWORKS
+ ^laravel
 -Interview
-vlogs
+-vlogs
+-python
